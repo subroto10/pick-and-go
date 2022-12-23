@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+form{
+    border: 2px solid green;
+    width: 600px;
+    padding: 30px ;
+    margin: 50px auto;
+    /* background: url(../images/banner.jpg); */
+    border-radius: 20px ;
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: 10px;
+}
+input{
+    width: 100%;
+     margin-top: 10px; 
+    padding: 10px; 
+}
+button{
+    background: green;
+    padding: 10px 15px;
+    border-color: rgb(208, 30, 30);
+    margin-top: 30px;
+}
